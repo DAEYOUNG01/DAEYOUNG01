@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI, autonomous driving etc.**
 
-- 👯 I’m looking to collaborate on **ML, Robotics, autonomous driving, CV etv.**
+- 👯 I’m looking to collaborate on **ML, Robotics, autonomous driving, CV etc.**
 
 - 📫 How to reach me **dbeodud147@naver.com**
 
