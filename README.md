@@ -1,12 +1,10 @@
 <h1 align="left">안녕하세요, 인공지능 엔지니어 유대영입니다!</h1>
 <h3 align="left">인공지능, 로보틱스, 자율주행 등 미래 기술 분야에 깊은 관심을 가지고 있습니다!</h3>
 
-<h1>Hi 👋, I'm DaeYoung, a developer who makes dreams.</h1>
-<h3>I'm a college student who always wants to be a bright ML engineer.</h3>
+<h1> Hi 👋, I'm DaeYoung, a developer who makes dreams. </h1>
+<h3> My goal is to always be a bright and enjoyable developer! </h3>
 
 <p><img src="https://komarev.com/ghpvc/?username=daeyoung01&label=Profile%20views&color=0e75b6&style=flat" alt="daeyoung01" /></p>
-
-- 🔭 I’m currently working on **Konyang University**
 
 - 🌱 I’m currently learning **AI, autonomous driving etc.**
 
