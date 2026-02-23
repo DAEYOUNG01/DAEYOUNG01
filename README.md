@@ -49,4 +49,21 @@
   </li>
 </ul>
 
-
+<h3>📬 Where to find me</h3>
+<p>
+  <a href="https://github.com/daeyoung01" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a> 
+  <a href="www.linkedin.com/in/대영-유-284a85386" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a> 
+  <a href="https://instagram.com/daeyoung_01" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a> 
+  <a href="mailto:dbeodud147@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a> 
+  <a href="mailto:dbeodud147@naver.com">
+    <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
+  </a>
+</p>
