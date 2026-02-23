@@ -55,9 +55,9 @@
   <a href="https://github.com/daeyoung01" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a> 
-  <a href="www.linkedin.com/in/대영-유-284a85386" target="_blank">
+  <a href="https://www.linkedin.com/in/Daeyoung01" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a> 
+  </a>
   <a href="https://instagram.com/daeyoung_01" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a> 
