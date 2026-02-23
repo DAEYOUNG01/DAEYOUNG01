@@ -1,41 +1,51 @@
-<h1 align="left">안녕하세요, 인공지능 엔지니어 유대영입니다!</h1>
-<h3 align="left">인공지능, 로보틱스, 자율주행 등 미래 기술 분야에 깊은 관심을 가지고 있습니다!</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! 방문해 주셔서 반가워요. </h1>
 
-<h1> Hi 👋, I'm DaeYoung, a developer who makes dreams. </h1>
-<h3> My goal is to always be a bright and enjoyable developer! </h3>
+<p>제 깃허브에 오신 것을 환영합니다! <br/> 
+저는 <img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>대한민국</b>에 거주하며, <b>AI & 데이터 엔지니어</b>를 목표로 딥러닝을 깊이 있게 공부하고 있는 예비 개발자 유대영입니다. </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=daeyoung01&label=Profile%20views&color=0e75b6&style=flat" alt="daeyoung01" /></p>
 
-- 🌱 I’m currently learning **AI, autonomous driving etc.**
 
-- 👯 I’m looking to collaborate on **ML, Robotics, autonomous driving, CV etc.**
+<h3>Things I code with</h3>
+<h3>AI & Data Science</h3>
+<ul>
+  <li><b>Deep Learning:</b> 
+    <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  </li>
+  <li><b>LLM & GenAI:</b> 
+    <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+    <img alt="Langgraph" src="https://img.shields.io/badge/-Langgraph-555555?style=flat-square&logoColor=white" />
+    <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    <img alt="OpenAI API" src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  </li>
+  <li><b>Data Analysis:</b> 
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logoColor=white" />
+  </li>
+</ul>
 
-- 📫 How to reach me **dbeodud147@naver.com**
+<h3>Engineering & Tools</h3>
+<ul>
+  <li><b>Languages:</b> 
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </li>
+  <li><b>Web Frameworks:</b> 
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  </li>
+  <li><b>Dev Tools:</b> 
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  </li>
+  <li><b>Collaboration:</b> 
+    <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  </li>
+</ul>
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://instagram.com/daeyoung_01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daeyoung_01" height="30" width="40" /></a>
-</p>
-
-<h3>Languages and Tools:</h3>
-<p>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daeyoung01&show_icons=true&locale=en&layout=compact" alt="daeyoung01" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=daeyoung01&show_icons=true&locale=en" alt="daeyoung01" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=daeyoung01&" alt="daeyoung01" /></p>
