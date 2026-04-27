@@ -1,8 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! 방문해 주셔서 반갑니다. </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요, AI Engineer 유대영입니다. </h1>
 
-<p>제 깃허브에 오신 것을 환영합니다! <br/> 
-저는 <img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>대한민국</b>에 거주하며, <b>AI & 데이터 엔지니어</b>를 목표로 딥러닝을 깊이 있게 공부하고 있는 예비 개발자 유대영입니다. </p>
+<p><img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>South Korea</b> | <b>AI & Data Engineer</b></p>
 
+<p><b>"Vision부터 AI Agent까지, 최적의 AI 기술로 최상의 솔루션을 설계합니다."</b></p>
+<ul>
+  <li><b>Trend-Agile:</b> Vison, LLM, VLM, AI Agent 등 최신 AI 기술을 빠르게 학습하고 프로젝트에 적용합니다.</li>
+  <li><b>End-to-End:</b> 데이터 처리부터 모델 파인튜닝, 서비스 파이프라인 구축까지 전체 과정을 주도합니다.</li>
+  <li><b>Systematic:</b> 체계적인 문서화와 아키텍처 설계를 통해 유지보수와 확장이 용이한 코드를 작성합니다.</li>
+</ul>
 
 <h3>Things I code with</h3>
 
@@ -55,6 +60,17 @@
 | :---: | :---: | :--- |
 | 2025.07 ~ 2025.08 | **ETRI**<br>Social Robotics Lab | **Computer Vision Intern**<br>- Fine-tuned YOLO with comprehensive multi-modal data (IR, Thermal, Grayscale)<br>- Designed X3D-based models for 3D data processing |
 | 2024.07 ~ 2024.08 | **IWAZ**<br>Intelligent Tech R&D | **Computer Vision Intern**<br>- Processed vision data & designed YOLO-based models (Detection, Segmentation) |
+
+<h3>🏆 Awards </h3>
+
+| <div align="center">Year</div> | <div align="center">Award</div> | <div align="center">Project</div> |
+| :---: | :--- | :--- |
+| 2026 | 2nd Place (Ranked in 2 / 140) — DACON Image Colorization & Loss Restoration AI Competition | Image Colorization and Restoration System |
+| 2026 | Excellence Award (Ranked in 4 / 960) — DACON 3rd Kookmin Univ. AI Big Data Analysis Competition | Trade Volume Prediction Model |
+| 2026 | Practical Award — KT AIVLE School BIG Project | BRANDPIROT (AI Branding SaaS Platform) |
+| 2025 | Excellence Award — DSC Shared University Living Lab Capstone Design | Automatic Translation System for Overseas Road Traffic Signs |
+| 2025 | Excellence Award — KT Corporate Linked AI Mobility Camp | AI Mobility Project |
+| 2025 | Excellence Award — 2025 KAICTS Spring Conference | Research on AI Convergence Technology |
 
 <h3>Where to find me</h3>
 <p>
