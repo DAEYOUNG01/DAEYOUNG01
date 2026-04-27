@@ -4,9 +4,8 @@
 저는 <img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>대한민국</b>에 거주하며, <b>AI & 데이터 엔지니어</b>를 목표로 딥러닝을 깊이 있게 공부하고 있는 예비 개발자 유대영입니다. </p>
 
 
-
-
 <h3>Things I code with</h3>
+
 <h3>AI & Data Science</h3>
 <ul>
   <li><b>Deep Learning:</b> 
@@ -50,6 +49,13 @@
   </li>
 </ul>
 
+<h3>🏤 Internship </h3>
+
+| <div align="center">Period</div> | <div align="center">Organization</div> | <div align="center">Role</div> |
+| :---: | :---: | :--- |
+| 2025.07 ~ 2025.08 | **ETRI**<br>Social Robotics Lab | **Computer Vision Intern**<br>- Fine-tuned YOLO with comprehensive multi-modal data (IR, Thermal, Grayscale)<br>- Designed X3D-based models for 3D data processing |
+| 2024.07 ~ 2024.08 | **IWAZ**<br>Intelligent Tech R&D | **Computer Vision Intern**<br>- Processed vision data & designed YOLO-based models (Detection, Segmentation) |
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/daeyoung01" target="_blank">
@@ -68,3 +74,8 @@
     <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
   </a>
 </p>
+
+
+
+
+
