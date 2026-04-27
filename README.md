@@ -68,7 +68,7 @@
 | 2026 | Practical Award — KT AIVLE School BIG Project | BRANDPIROT (AI Branding SaaS Platform) |
 | 2025 | Excellence Award — DSC Shared University Living Lab Capstone Design | Automatic Translation System for Overseas Road Traffic Signs |
 | 2025 | Excellence Award — 2025 KAICTS Spring Conference | Language Model Selection Evaluation for Speech Reconstruction Systems Supporting Communication of Individuals with Dysarthria |
-| 2025 | Excellence Award (Ranked in 4 / 960) — DACON 3rd Kookmin Univ. AI Big Data Analysis Competition | Trade Volume Prediction using FT-Transformer & LightGBM Hybrid Model |
+| 2025 | Excellence Award (Ranked in 4 / 960) — DACON 3rd Kookmin Univ. AI Big Data Analysis Competition | Trade Volume Prediction using FT-Transformer & LightGBM |
 | 2024 | 2nd Place (Ranked in 2 / 140) — DACON Image Colorization & Loss Restoration AI Competition | Image Colorization & Restoration using GAN & U-Net |
 | 2024 | Excellence Award — DSC & KT Corporate Linked AI Mobility Camp | AI Mobility Project |
 
