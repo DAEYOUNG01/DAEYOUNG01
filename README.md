@@ -4,12 +4,12 @@
 
 <p><b>"Vision부터 AI Agent까지, 최적의 AI 기술로 최상의 솔루션을 설계합니다."</b></p>
 <ul>
-  <li><b>Trend-Agile:</b> Vison, LLM, VLM, AI Agent 등 최신 AI 기술을 빠르게 학습하고 프로젝트에 적용합니다.</li>
-  <li><b>End-to-End:</b> 데이터 처리부터 모델 파인튜닝, 서비스 파이프라인 구축까지 전체 과정을 주도합니다.</li>
+  <li><b>Trend-Agile:</b> Vision, LLM, VLM, AI Agent 등 최신 AI 기술을 빠르게 학습하고 프로젝트에 적용합니다.</li>
+  <li><b>End-to-End:</b> 데이터 처리부터 모델 파인튜닝, 서비스 파이프라인 구축까지 전체 과정을 경험하고 연결합니다.</li>
   <li><b>Systematic:</b> 체계적인 문서화와 아키텍처 설계를 통해 유지보수와 확장이 용이한 코드를 작성합니다.</li>
 </ul>
 
-<h3>Things I code with</h3>
+<h3>Things I code with</h3>Vision
 
 <h3>AI & Data Science</h3>
 <ul>
@@ -58,7 +58,7 @@
 
 | <div align="center">Period</div> | <div align="center">Organization</div> | <div align="center">Role</div> |
 | :---: | :---: | :--- |
-| 2025.07 ~ 2025.08 | **ETRI**<br>Social Robotics Lab | **Computer Vision Intern**<br>- Fine-tuned YOLO with comprehensive multi-modal data (IR, Thermal, Grayscale)<br>- Designed X3D-based models for 3D data processing |
+| 2025.07 ~ 2025.08 | **ETRI**<br>Social Robotics Lab | **Computer Vision Intern**<br>- Fine-tuned YOLO with comprehensive multi-modal data (IR, Thermal, Grayscale)<br>- Built an X3D-M action-recognition pipeline on multi-modal video clips |
 | 2024.07 ~ 2024.08 | **IWAZ**<br>Intelligent Tech R&D | **Computer Vision Intern**<br>- Processed vision data & designed YOLO-based models (Detection, Segmentation) |
 
 <h3>🏆 Awards </h3>
