@@ -65,7 +65,7 @@
 
 | <div align="center">Year</div> | <div align="center">Award</div> | <div align="center">Project</div> |
 | :---: | :--- | :--- |
-| 2026 | Practical Award — KT AIVLE School BIG Project | BRANDPIROT (AI Branding SaaS Platform) |
+| 2026 | Practical Award — KT AIVLE School BIG Project | BRANDPILOT (AI Branding SaaS Platform) |
 | 2025 | Excellence Award — DSC Shared University Living Lab Capstone Design | Automatic Translation System for Overseas Road Traffic Signs |
 | 2025 | Excellence Award — 2025 KAICTS Spring Conference | Language Model Selection Evaluation for Speech Reconstruction Systems Supporting Communication of Individuals with Dysarthria |
 | 2025 | Excellence Award (Ranked in 4 / 960) — DACON 3rd Kookmin Univ. AI Big Data Analysis Competition | Trade Volume Prediction using FT-Transformer & LightGBM |
